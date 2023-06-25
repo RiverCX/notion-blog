@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'River's Blog',
+  name: 'River Space',
   domain: 'river-cx.vercel.app',
   author: 'River',
 
